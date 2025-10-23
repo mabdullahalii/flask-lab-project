@@ -8,7 +8,7 @@
 |------|------|-----------|------------------|
 | **Member 1 — Backend Lead** | Sheheryar Altaf | 043 | Implements core Flask routes, application logic, and manages backend structure. |
 | **Member 2 — Frontend & API Integration** | Abdullah Ali | 047 | Develops frontend templates, static files (CSS/JS), and integrates REST APIs with Flask routes. |
-| **Member 3 — DevOps Engineer** | Musa Ajmal | — | Configures Docker setup, manages testing environment, and implements CI/CD pipeline. |
+| **Member 3 — DevOps Engineer** | Musa Ajmal | 147 | Configures Docker setup, manages testing environment, and implements CI/CD pipeline. |
 
 ---
 
