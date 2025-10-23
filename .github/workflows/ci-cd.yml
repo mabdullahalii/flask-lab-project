@@ -29,9 +29,9 @@ jobs:
 
       # Step 4 – Run unit tests
       - name: Run pytest
+        working-directory: main
         run: |
-          export PYTHONPATH=main
-          pytest tests
+         pytest ../tests
 
       # Step 5 – Build Docker image
       - name: Build Docker image
