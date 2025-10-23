@@ -19,8 +19,7 @@ This project is a **Flask-based web application** designed with a modular struct
 
 ## 🧩 Tech Stack
 - **Backend:** Python (Flask)
-- **Frontend:** HTML, CSS, JavaScript, Jinja2 Templates
-- **Database:** SQLite / MySQL (as configured)
+- **Frontend:** HTML, CSS, JavaScript
 - **Containerization:** Docker
 - **Version Control:** Git & GitHub
 - **CI/CD:** GitHub Actions / Jenkins (as implemented)
@@ -33,4 +32,4 @@ This project is a **Flask-based web application** designed with a modular struct
 
 ## Abdullah Ali (047) — Frontend & API Integration
 
-## Musa Ajmal (147) — DevOps Engineer
+## Musa Ajmal 147 — DevOps Engineer
